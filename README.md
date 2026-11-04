@@ -172,7 +172,7 @@ l)
 * [Peter McKeever](http://petermckeever.com/plotting-xy-football-data-in-python/) - (Python) Plotting xy football data in python.
 * [PySport](https://pysport.org/)
 * [Soccer event logger](https://torvaney.github.io/projects/tracker.html)
-
+* [ScorePredicts](https://scorepredicts.com) - Web-based football analytics platform with probability-based match forecasts, league-level xG, head-to-head records, referee statistics, and public prediction-result reporting.
 
 
 ## Twitter Accounts
